@@ -1,1 +1,1 @@
-# Attentional-CNN-with-Homogenous-Padding-fo-Respiratory-Audio-Classification
+# Attentional-CNN-with-Homogenous-Padding-for-Respiratory-Audio-Classification
